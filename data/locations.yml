@@ -1,0 +1,11 @@
+berlin:
+  name: "Berlin"
+  address: "Sebastien's home"
+
+london:
+  name: "London"
+  address: "Boris home"
+
+shanghai:
+  name: "shanghai"
+  address: "Romain's home"
